@@ -1,0 +1,17 @@
+so basically the idea is to create a program  to perform the following deld assignments in cpp graphics program:-1 To Realize Full Adder using logic gates CO1,CO2
+2 Design and implement Code Converters-Binary to Gray CO1,CO2
+3 Design and implement of BCD Adder using 4-bit Binary Adder (IC
+7483)
+CO1,CO2,CO3
+4 Realization of Boolean Expression using Multiplexer CO3
+5 Design and implement 2 bit comparator using logic gates CO1, CO2
+6 Design and implement Parity Generator and checker CO1, CO2
+7 Implement 2 bit Ripple Counter using JK Flip Flop CO4, CO5
+8 Design Synchronous 2 bit Up/Down Counter with mode control using
+JK Flip Flop
+CO1, CO4, CO5
+9 Design and implement Modulo-N counter using Decade Counter IC
+7490
+CO4,CO5
+10 Design and implement Sequence generator and detector using JK Flip
+Flop
